@@ -18,4 +18,4 @@
 
 ##
 
-https://github-readme-stats.vercel.app/api?username=dripelima
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dripelima&show_icons=true&theme=transparent)
