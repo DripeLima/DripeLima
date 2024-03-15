@@ -18,8 +18,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dripelima&show_icons=true&theme=transparent)
-
-##
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<a href="https://github.com/dripelima/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dripelima" />
+</a>
+<a href="https://github.com/dripelima/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dripelima&layout=compact&langs_count=8&card_width=320" />
+</a>
