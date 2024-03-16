@@ -6,7 +6,7 @@ Além de minha jornada profissional, tenho uma verdadeira paixão por gatos, com
 
 Um dos meus grandes sonhos é abrir minha própria empresa, onde possa unir minha criatividade, habilidades técnicas e paixão por inovação para criar soluções impactantes no mundo da tecnologia. Estou determinado a transformar esse sonho em realidade e contribuir para o avanço do setor de TI.
 
-Estou entusiasmado para compartilhar minha jornada de transição de carreira, explorar novas oportunidades e conectar-me com profissionais inspiradores nesta emocionante jornada rumo ao futuro tecnológico. Vamos construir algo incrível juntos!
+Estou animado para compartilhar minha jornada de transição de carreira, explorar novas oportunidades e conectar-me com profissionais inspiradores nesta emocionante jornada rumo ao futuro tecnológico. Vamos construir algo incrível juntos!
 
 
 Habilidades Tecnicas: 
