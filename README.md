@@ -9,8 +9,8 @@ Um dos meus grandes sonhos é abrir minha própria empresa, onde possa unir minh
 Estou animado para compartilhar minha jornada de transição de carreira, explorar novas oportunidades e conectar-me com profissionais inspiradores nesta emocionante jornada rumo ao futuro tecnológico. Vamos construir algo incrível juntos!
 
 
-Habilidades Tecnicas: 
 
+Habilidades Tecnicas: 
 
 
 <div style="display: inline_block"><br>
