@@ -19,7 +19,7 @@
 ##
 
 <a href="https://github.com/dripelima/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dripelima" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=dripelima&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/dripelima/convoychat">
   <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dripelima&layout=compact&langs_count=8&card_width=320" />
