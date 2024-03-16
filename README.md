@@ -11,9 +11,6 @@ Estou animado para compartilhar minha jornada de transição de carreira, explor
 
 Habilidades Tecnicas: 
 
-HTML/ CSS/ JAVASCRIPT/ REACT/ NODE.JS/ TYPESCRIPT/ POSTGREES/ GIT/ GITHUB/ VSCODE
-
-
 
 
 <div style="display: inline_block"><br>
