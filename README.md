@@ -1,6 +1,6 @@
 Sobre mim: 
 
-Olá! Sou o Rodrigo, tenho 22 anos, atualmente estou em transição de carreira da tatuagem para a área de TI. Apaixonado por desafios e aprendizado contínuo, estou ansioso para explorar novos horizontes e mergulhar de cabeça neste universo.
+Olá! Sou o Rodrigo, tenho 22 anos, atualmente estou em transição de carreira da tatuagem para a área de TI. Apaixonado por desafios e aprendizado contínuo, estou ansioso para explorar novos horizontes e mergulhar de cabeça neste mundo.
 
 Além de minha jornada profissional, tenho uma verdadeira paixão por gatos, onde já conto com 4 que fazem parte da minha vida. Nos momentos de lazer, gosto de me dedicar a diferentes hobbies, desde a prática de esportes ao ar livre até a leitura de livros.
 
