@@ -1,13 +1,10 @@
 Sobre mim: 
 
-Olá! Sou o Rodrigo, um entusiasta da tecnologia de 22 anos, atualmente em transição de carreira da tatuagem para a área de Tecnologia da Informação (TI). Apaixonado por desafios e aprendizado contínuo, estou ansioso para explorar novos horizontes e mergulhar de cabeça neste universo dinâmico.
+Olá! Sou o Rodrigo, tenho 22 anos, atualmente estou em transição de carreira da tatuagem para a área de TI. Apaixonado por desafios e aprendizado contínuo, estou ansioso para explorar novos horizontes e mergulhar de cabeça neste universo.
 
-Além de minha jornada profissional, tenho uma verdadeira paixão por gatos, compartilhando minha vida com esses companheiros peludos. Nos momentos de lazer, gosto de me dedicar a diferentes hobbies, desde a prática de esportes ao ar livre até a leitura de livros sobre empreendedorismo e tecnologia.
+Além de minha jornada profissional, tenho uma verdadeira paixão por gatos, onde já conto com 4 que fazem parte da minha vida. Nos momentos de lazer, gosto de me dedicar a diferentes hobbies, desde a prática de esportes ao ar livre até a leitura de livros.
 
-Um dos meus grandes sonhos é abrir minha própria empresa, onde possa unir minha criatividade, habilidades técnicas e paixão por inovação para criar soluções impactantes no mundo da tecnologia. Estou determinado a transformar esse sonho em realidade e contribuir para o avanço do setor de TI.
-
-Estou animado para compartilhar minha jornada de transição de carreira, explorar novas oportunidades e conectar-me com profissionais inspiradores nesta emocionante jornada rumo ao futuro tecnológico. Vamos construir algo incrível juntos!
-
+Um dos meus grandes sonhos é abrir minha própria empresa, onde possa unir minha criatividade, habilidades técnicas e paixão por inovação para criar soluções impactantes no mundo da tecnologia. Estou determinado a transformar esse sonho em realidade, superando todos os obstáculos e adversidades que aparecerem pelo caminho.
 
 
 Habilidades Tecnicas: 
